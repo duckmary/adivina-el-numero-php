@@ -4,7 +4,7 @@ Juego realizado en **PHP** en el que el usuario intenta adivinar el número que 
 
 Tendrás <ins> 5 intentos</ins> para averiguar el número.
 
-Juega aquí: <>
+Juega aquí: <https://adivina-el-numero-php-be400.wasmer.app/index.php>
 
 <img width="400px" src="img/captura01.png">
 
