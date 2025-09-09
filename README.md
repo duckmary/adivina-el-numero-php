@@ -5,6 +5,7 @@ Juego realizado en **PHP** en el que el usuario intenta adivinar el número que 
 Tendrás <ins> 5 intentos</ins> para averiguar el número.
 
 <img width="400px" src="img/captura01.png">
+
 <img width="400px" src="img/captura02.png">
 
 ##Características del juego
